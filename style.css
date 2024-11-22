@@ -23,16 +23,17 @@
     display:flex;
     justify-content:center;
     align-items:center;
-    font-size:23px;
+    font-size: 18px;
+    font-style: italic;
 }
 
 
 .part1 {
-    font-size: 27px;
+    font-size: 23px;
 }
 
 .isipart1{
-    font-size: 18px;
+    font-size: 20px;
     font-style: italic;
     font-weight: 400;
 }
